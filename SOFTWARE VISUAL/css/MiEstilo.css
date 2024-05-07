@@ -1,0 +1,45 @@
+a{
+    color: rgb(84, 247, 84);
+  }
+  
+  a:hover{
+    color: rgb(255, 251, 10);
+  }
+  
+  a:active{
+    color: rgb(255, 255, 255);
+  }
+
+.imagenentradaysalida{
+    width: 200px;
+    height: 200px;
+}
+.imagenentradaysalida2{
+  width: 100px;
+  height: 100px;
+}
+
+.imagenenformulario{
+  width: 400px;
+  height: 200px;
+}
+
+.titulo1{
+  color: rgb(1, 37, 1);
+  font-size: 30px;
+  text-align: center;
+  font-family:Georgia, Times, serif; 
+}
+.tituloverde{
+  color: green;
+  text-align: center;
+}
+.titulo2{
+  color:green;
+  font-size: 55px;
+  text-align: center;
+  font-family:Georgia, Times, serif; 
+}
+.imagenn{
+  image-orientation: flip;
+}
